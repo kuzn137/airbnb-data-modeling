@@ -8,6 +8,7 @@ Here we also compare random forest and light gradient boosting performance. Ligh
 files: airbnb.pynb - code; listings_seattle.csv - data (calendar.csv does not fit to my github, go to https://www.kaggle.com/airbnb/seattle)
 
 Author: Inga Kuznetsova
+In https://www.kaggle.com/aleksandradeis/airbnb-seattle-reservation-prices-analysis was used RF, price dependence on month and 'month' feature. Division on test and train was different and resulted to the same id in test and train and overfitting.  Other features selection is different.
 
 The Airbnb rent prices noticeably depend on month of the year. The highest prices are in the summer. 
 The other features that are influence prices the most are total number of rooms, month, latitude, longitude, accommodates (total number of people to accommodate), room type, reviews per month, host total listening counts, street.
