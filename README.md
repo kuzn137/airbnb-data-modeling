@@ -1,4 +1,4 @@
-# airbnb-data-modeling
+# Airbnb-data-modeling
 ## Libraries:
 numpy, pandas, lightgbm, matplotlib, scikit learn, scipy, warnings
 ## Data
